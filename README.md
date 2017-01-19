@@ -1,1 +1,1 @@
-# Sample This is a sample to learn GITHUB.
+# Sample - This is a sample to learn GITHUB.
